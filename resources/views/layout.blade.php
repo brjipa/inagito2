@@ -18,8 +18,8 @@
                 <div class="container">
                 <a href="#" class="brand-logo"><img style="height: 60px" src="/img/InAgito_logo-04.png" alt="In Agito, Website para cadastro de eventos"></a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><a href="/evento">Home</a></li>
-                    <li><a href="/evento/create">Cadastrar Evento</a></li>
+                    <li><a href="/evento" accesskey="1" alt="Utilize o comando alt+1 para acessar a lista de eventos">Home</a></li>
+                    <li><a href="/evento/create" accesskey="2" alt="Utlize alt+2 para cadastrar um evento">Cadastrar Evento</a></li>
                 </ul>
             </div>
             </div>

@@ -3,7 +3,7 @@
 @section('conteudo')
     <h3>Eventos Cadastrados</h3>
     <br>
-    <table class="table-bordered table">
+    <table class="table-bordered table" summary="A tabela exibe uma lista de eventos cadastrados, possuindo mais a esquerda o nome do evento, ao lado do nome temos o tipo do evento e a direita botoes que indicam a visualização dos detalhes do evento, outro botao para a edição do mesmo e por ultimo um botao para exclusão do evento" >
         <thead>
         <tr>
             <th>Nome do Evento</th>

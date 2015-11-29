@@ -42,7 +42,7 @@
               <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
               <folding>
                 <element signature="e#40#60#0#PHP" expanded="true" />
-                <marker date="1448421098767" expanded="true" signature="719:744" placeholder="select * fro..tipo_evento..." />
+                <marker date="1448821689291" expanded="true" signature="719:744" placeholder="select * fro..tipo_evento..." />
               </folding>
             </state>
           </provider>
@@ -68,21 +68,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lista.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lista.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/evento/lista.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.115385">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.518851">
+              <caret line="17" column="191" selection-start-line="17" selection-start-column="191" selection-end-line="17" selection-end-column="191" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="layout.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/layout.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7558348">
-              <caret line="64" column="71" selection-start-line="64" selection-start-column="71" selection-end-line="64" selection-end-column="71" />
+            <state vertical-scroll-proportion="-13.730769">
+              <caret line="21" column="105" selection-start-line="21" selection-start-column="105" selection-end-line="21" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -156,8 +156,8 @@
         <option value="$PROJECT_DIR$/resources/views/evento/detalhe.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/evento/cadastro.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
-        <option value="$PROJECT_DIR$/resources/views/evento/lista.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layout.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/evento/lista.blade.php" />
       </list>
     </option>
   </component>
@@ -504,7 +504,7 @@
           <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding>
             <element signature="e#40#60#0#PHP" expanded="true" />
-            <marker date="1448421098767" expanded="true" signature="719:744" placeholder="select * fro..tipo_evento..." />
+            <marker date="1448821689291" expanded="true" signature="719:744" placeholder="select * fro..tipo_evento..." />
           </folding>
         </state>
       </provider>
@@ -573,7 +573,7 @@
           <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding>
             <element signature="e#40#60#0#PHP" expanded="true" />
-            <marker date="1448421098767" expanded="true" signature="719:744" placeholder="select * fro..tipo_evento..." />
+            <marker date="1448821689291" expanded="true" signature="719:744" placeholder="select * fro..tipo_evento..." />
           </folding>
         </state>
       </provider>
@@ -794,7 +794,7 @@
           <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding>
             <element signature="e#40#60#0#PHP" expanded="true" />
-            <marker date="1448421098767" expanded="true" signature="719:744" placeholder="select * fro..tipo_evento..." />
+            <marker date="1448821689291" expanded="true" signature="719:744" placeholder="select * fro..tipo_evento..." />
           </folding>
         </state>
       </provider>
@@ -833,18 +833,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/evento/lista.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/layout.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.115385">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state vertical-scroll-proportion="-13.730769">
+          <caret line="21" column="105" selection-start-line="21" selection-start-column="105" selection-end-line="21" selection-end-column="105" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layout.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/evento/lista.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7558348">
-          <caret line="64" column="71" selection-start-line="64" selection-start-column="71" selection-end-line="64" selection-end-column="71" />
+        <state vertical-scroll-proportion="0.518851">
+          <caret line="17" column="191" selection-start-line="17" selection-start-column="191" selection-end-line="17" selection-end-column="191" />
           <folding />
         </state>
       </provider>
