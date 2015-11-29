@@ -1,3 +1,7 @@
+<! DOCTYPE html PUBLIC "- // W3C // DTD XHTML 1.0 Strict // EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns = "http://www.w3.org/1999/xhtml" lang = "pt-br" xml: lang = "pt-br">
+
 <html>
 <head>
     <link href="/css/materialize.css" rel="stylesheet">
@@ -12,16 +16,14 @@
         <nav>
             <div class="nav-wrapper">
                 <div class="container">
-                <a href="#" class="brand-logo"><img style="height: 60px" src="/img/InAgito_logo-04.png"></a>
+                <a href="#" class="brand-logo"><img style="height: 60px" src="/img/InAgito_logo-04.png" alt="In Agito, Website para cadastro de eventos"></a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
                     <li><a href="/evento">Home</a></li>
                     <li><a href="/evento/create">Cadastrar Evento</a></li>
-
-
                 </ul>
             </div>
+            </div>
         </nav>
-    </div>
 </div>
 
 <div class="container">
@@ -52,14 +54,14 @@
         <div class="footer-copyright">
             <div class="container">
                 © 2015 Copyright Infinity Studio
-                <a class="grey-text text-lighten-4 right" href="#!"><img style="height: 50px" src="/img/Infinity_logo-03.png"></a>
+                <a class="grey-text text-lighten-4 right" href="#!"><img style="height: 50px" src="/img/Infinity_logo-03.png" alt="Infinity, Desenvolvimento de aplicações android e web"></a>
             </div>
         </div>
     </footer>
 </div>
 
 
-<script src="{{asset('/js/jquery-2.1.4.min.js')}}"></script>
-<script src="{{asset('js/materialize.min.js')}}"></script>
+<script src="{{asset('/js/jquery-2.1.4.min.js')}}" type="text/javascript"></script>
+<script src="{{asset('js/materialize.min.js')}}" type="text/javascript"></script>
 </body>
 </html>
