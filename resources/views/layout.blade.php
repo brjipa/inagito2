@@ -1,11 +1,11 @@
-<! DOCTYPE html PUBLIC "- // W3C // DTD XHTML 1.0 Strict // EN"
+<DOCTYPE html PUBLIC "- // W3C // DTD XHTML 1.0 Strict // PT-BR"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns = "http://www.w3.org/1999/xhtml" lang = "pt-br" xml: lang = "pt-br">
 
 <html>
 <head>
-    <link href="/css/materialize.css" rel="stylesheet">
-    <link href="/css/css.css" rel="stylesheet">
+    <link href="/css/materialize.css" rel="stylesheet"/>
+    <link href="/css/css.css" rel="stylesheet"/>
 
     <title>Inagito</title>
 </head>
@@ -16,7 +16,7 @@
         <nav>
             <div class="nav-wrapper">
                 <div class="container">
-                <a href="#" class="brand-logo"><img style="height: 60px" src="/img/InAgito_logo-04.png" alt="In Agito, Website para cadastro de eventos"></a>
+                <a href="#" class="brand-logo"><img style="height: 60px" src="/img/InAgito_logo-04.png" alt="In Agito, Website para cadastro de eventos"/></a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
                     <li><a href="/evento" accesskey="1" alt="Utilize o comando alt+1 para acessar a lista de eventos">Home</a></li>
                     <li><a href="/evento/create" accesskey="2" alt="Utlize alt+2 para cadastrar um evento">Cadastrar Evento</a></li>
@@ -54,7 +54,7 @@
         <div class="footer-copyright">
             <div class="container">
                 © 2015 Copyright Infinity Studio
-                <a class="grey-text text-lighten-4 right" href="#!"><img style="height: 50px" src="/img/Infinity_logo-03.png" alt="Infinity, Desenvolvimento de aplicações android e web"></a>
+                <a class="grey-text text-lighten-4 right" href="#!"><img style="height: 50px" src="/img/Infinity_logo-03.png" alt="Infinity, Desenvolvimento de aplicações android e web"/>
             </div>
         </div>
     </footer>

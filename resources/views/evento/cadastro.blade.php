@@ -10,7 +10,7 @@
         *Todos os campos são obrigatorios
     </div>
 
-    {!! Form::open(['route' => 'evento.store', 'method'=>'POST']) !!}
+    {!! Form::open(['route' => 'evento.store', 'method'=>'post']) !!}
     <div class="row">
         <div class="input-field col s6">
             {!! Form::label('Nome do Evento:') !!}

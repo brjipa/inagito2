@@ -15,10 +15,10 @@
         <tr>
             <td>{{$evento->nomeevento}}</td>
             <td>{{$evento->tipo_evento}}</td>
-            <td><a href="{{ route('evento.show', $evento->id) }}" class="btn-floating teal"><img class="button" src="/img/magnifier13.png" alt="Visualizar detalhes do evento {{$evento->nome}}"></a></td>
-            <td><a href="{{ route('evento.edit', $evento->id) }}" class="btn-floating orange accent-4"><img class="button" src="/img/edit26.png" alt="Editar detalhes do evento {{$evento->nome}}"></a></td>
-            <td><form method="POST" accept-charset="UTF-8" action='/evento/{{ $evento->id }}'>
-                    <button type="submit" class="btn-floating red botaoverm"><img class="lixeira" src="/img/delete96.png" alt="Exluir evento {{$evento->nome}}"></button>
+            <td><a href="{{ route('evento.show', $evento->id) }}" class="btn-floating teal"><img class="button" src="/img/magnifier13.png" alt="Visualizar detalhes do evento {{$evento->nome}}"/></td>
+            <td><a href="{{ route('evento.edit', $evento->id) }}" class="btn-floating orange accent-4"><img class="button" src="/img/edit26.png" alt="Editar detalhes do evento {{$evento->nome}}"/></td>
+            <td><form method="post" accept-charset="UTF-8" action='/evento/{{ $evento->id }}'>
+                    <button type="submit" class="btn-floating red botaoverm"><img class="lixeira" src="/img/delete96.png" alt="Exluir evento {{$evento->nome}}"/>
                     {{ csrf_field() }}
                     {{ method_field('DELETE') }}
                 </form>

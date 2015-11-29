@@ -10,7 +10,7 @@
         *Todos os campos são obrigatorios
     </div>
 
-    <form method="POST" accept-charset="UTF-8" action="/evento/{{ $evento->id }}">
+    <form method="post" accept-charset="UTF-8" action="/evento/{{ $evento->id }}">
     <div class="row">
         <div class="input-field col s6">
             {!! Form::label('Nome do Evento:') !!}
